@@ -45,10 +45,6 @@ console.log(`tambah(a,b)`)
 
 console.log(`log : Penjumlahan ${a} + ${b} = ${pertambahan()}`);
 
-console.log(`tambah(a,b)`)
-
-console.log(`log : Penjumlahan ${a} + ${b} = ${pertambahan()}`);
-
 
 console.log(`kurang(a,b)`)
 
