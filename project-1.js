@@ -40,29 +40,23 @@ const modulus = () =>{
 
 
 console.log(`a = ${a}`);
-console.log(`b = ${b}`);
+console.log(`b = ${b}\n`);
 console.log(`tambah(a,b)`)
-
-console.log(`log : Penjumlahan ${a} + ${b} = ${pertambahan()}`);
+console.log(`log : Penjumlahan ${a} + ${b} = ${pertambahan()}\n`);
 
 
 console.log(`kurang(a,b)`)
-
-console.log(`log : Pengurangan ${a} - ${b} = ${pengurangan()}`);
+console.log(`log : Pengurangan ${a} - ${b} = ${pengurangan()}\n`);
 
 
 console.log(`kali(a,b)`)
-
-console.log(`log : Perkalian ${a} * ${b} = ${perkalian()}`);
+console.log(`log : Perkalian ${a} * ${b} = ${perkalian()}\n`);
 
 console.log(`bagi(a,b)`)
-
-console.log(`log : Pembagian ${a} / ${b} = ${pembagian()}`);
+console.log(`log : Pembagian ${a} / ${b} = ${pembagian()}\n`);
 
 console.log(`Modulus(a,b)`)
-
-console.log(`log : Modulus ${a} % ${b} = ${modulus()}`);
+console.log(`log : Modulus ${a} % ${b} = ${modulus()}\n`);
 
 console.log(`perpangkatan(a,b)`)
-
-console.log(`log : Perpangkatan ${a} ^ ${b} = ${perpangkatan()}`);
+console.log(`log : Perpangkatan ${a} ^ ${b} = ${perpangkatan()}\n`);
